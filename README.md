@@ -10,4 +10,4 @@ N/A
 
 ## Usage
 
-Click or copy+paste this link to load the website: 
+Click or copy+paste this link to load the website: https://bryan-mcintyre.github.io/module-1-challenge/
